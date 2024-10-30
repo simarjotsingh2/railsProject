@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "faker"
-gem "will_paginate", "~> 3.3"
+gem "will_paginate", "~> 4.0"
 gem "httparty"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.1"
